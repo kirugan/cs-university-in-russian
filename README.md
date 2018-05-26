@@ -6,4 +6,5 @@ Computer science university with russian resources
 - https://habr.com/company/yandex/blog/324866/
 
 ## Сети
+- https://www.youtube.com/watch?v=BJSITWkSDQg
 - https://www.youtube.com/watch?v=Fpmd-H7Bpp4
