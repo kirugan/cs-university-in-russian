@@ -7,4 +7,5 @@ Computer science university with russian resources
 
 ## Сети
 - https://www.youtube.com/watch?v=BJSITWkSDQg
-- https://www.youtube.com/watch?v=Fpmd-H7Bpp4
+- https://events.yandex.ru/lib/talks/526/
+- https://events.yandex.ru/lib/talks/527/
